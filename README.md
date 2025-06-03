@@ -17,6 +17,11 @@ A curated list of certifications and professional training programs I’ve compl
 
 ---
 
+## 📊 Kaggle Learning
+
+- ✅ Python – Kaggle Learn (In Progress)
+
+
 ## 📊 Data Science & Programming
 
 - ✅ Machine Learning A-Z – Udemy (Ongoing)
