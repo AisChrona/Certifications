@@ -1,32 +1,38 @@
-# 📜 Certifications & Learning Journey
+# 📜 Certifications & Virtual Experiences
 
-A growing collection of my certifications and learning experiences across Web Development, UI/UX, and Data Science.
-
----
-
-## 🌐 Web Development & UI/UX
-
-- ✅ UI/UX Virtual Internship – Accenture (via Forage)
-- ✅ BCA Internship: Django Framework + Python Basics (1 Month)
-- ✅ HTML & CSS – Self-Learning Projects & Practice
+A curated list of certifications and professional training programs I’ve completed in Web Development, UI/UX, Software Engineering, and Data Science.
 
 ---
 
-## 📊 Data Science
+## 💼 Industry-Recognized Certifications
 
-- ✅ Machine Learning A-Z – Udemy (2025)
-- ✅ Python Programming for Beginners – Udemy (2025)
-- ✅ Python with Apna College – Ongoing (YouTube)
-
----
-
-## 🧠 Tools Used So Far
-
-- Python, Django, Git & GitHub  
-- HTML, CSS  
-- VS Code, Google Colab
+- ✅ J.P. Morgan – Software Engineering Experience (Forage)
+- ✅ bp – Digital Design & UX Virtual Internship (Forage)
+- ✅ IBM – UX Design
+- ✅ IBM – Web Development
+- ✅ Google Ads Search Certification
+- ✅ Google Analytics Certification
+- ✅ Accenture – UI/UX Virtual Internship (Forage)
+- ✅ Certificate of Participation – L'Oréal Sustainability Challenge (2024)
 
 ---
 
-📁 *Certificate PDFs and screenshots will be added soon to this repo.*
-🎯 *I’m continuously upskilling — this repo grows with every new milestone.*
+## 📊 Data Science & Programming
+
+- ✅ Machine Learning A-Z – Udemy (Ongoing)
+- ✅ Python Programming for Beginners – Udemy (Ongoing)
+- ✅ Python for Data Science – Apna College (Ongoing)
+
+---
+
+## 🛠 Tools & Technologies Practiced
+
+`Python` `HTML` `CSS` `Django` `Git & GitHub` `UI/UX` `VS Code` `Google Colab` `Figma` (basic)
+
+---
+
+📁 Certificates will be organized in the `/certificates/` folder.  
+🎯 This repository will continue to grow as I upskill and explore new areas.
+
+
+
