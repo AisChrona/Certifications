@@ -15,6 +15,8 @@ A curated list of certifications and professional training programs I’ve compl
 - ✅ Accenture – UI/UX Virtual Internship (Forage)
 - ✅ Certificate of Participation – L'Oréal Sustainability Challenge (2024)
 - ✅ Kaggle- Introduction to Machine Learning
+- ✅ IBM – Machine Learning with Python
+
 
 ---
 
