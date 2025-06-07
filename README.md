@@ -8,8 +8,8 @@ A curated list of certifications and professional training programs I’ve compl
 
 - ✅ J.P. Morgan – Software Engineering Experience (Forage)
 - ✅ bp – Digital Design & UX Virtual Internship (Forage)
-- ✅ IBM- Web Development
-- IBM
+- ✅ IBM – UX Design
+- ✅ IBM – Web Development
 - ✅ Google Ads Search Certification
 - ✅ Google Analytics Certification
 - ✅ Accenture – UI/UX Virtual Internship (Forage)
