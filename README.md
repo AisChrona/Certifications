@@ -16,6 +16,7 @@ A curated list of certifications and professional training programs I’ve compl
 - ✅ Certificate of Participation – L'Oréal Sustainability Challenge (2024)
 - ✅ Kaggle- Introduction to Machine Learning
 - ✅ IBM – Machine Learning with Python
+- ✅ IBM- Data Analysis for python
 
 
 ---
