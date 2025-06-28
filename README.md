@@ -18,6 +18,7 @@ A curated list of certifications and professional training programs I’ve compl
 - ✅ IBM – Machine Learning with Python
 - ✅ IBM- Data Analysis for python
 - ✅ Udemy- Python from Zero to Hero
+- ✅ LinkedIn- Conetent & creative Design
 
 
 ---
