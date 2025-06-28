@@ -19,6 +19,7 @@ A curated list of certifications and professional training programs I’ve compl
 - ✅ IBM- Data Analysis for python
 - ✅ Udemy- Python from Zero to Hero
 - ✅ LinkedIn- Content & creative Design
+- ✅ Simplilearn- Introduction to LLM
 
 
 ---
