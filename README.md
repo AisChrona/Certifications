@@ -31,7 +31,7 @@ A curated list of certifications and professional training programs I’ve compl
 
 - ✅ Machine Learning A-Z – Udemy (Ongoing)
 - ✅ Python Programming for Beginners – Udemy (Ongoing)
-- ✅ Python for Data Science – Apna College (Ongoing)
+- ✅ Python for Data Science – Apna College (Completed)
 
 ---
 
