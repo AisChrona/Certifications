@@ -21,6 +21,7 @@ A curated list of certifications and professional training programs I’ve compl
 - ✅ LinkedIn- Content & creative Design
 - ✅ Simplilearn- Introduction to LLM
 - ✅ Agent academy.ai- Understanding Agentic AI
+- ✅ Udemy- 100 Days of code pro Python bootcamp
   
 
 
